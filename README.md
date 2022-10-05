@@ -2,10 +2,6 @@
 
 This is my personal repo with info on my music discovery process
 
-# But nobody cares!
-
-Why are you reading this then? 🤨
-
 ## Artists
 
 Artists that I consider my favorite
