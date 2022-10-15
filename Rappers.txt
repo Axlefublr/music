@@ -1,4 +1,3 @@
-shade apollo
 cl!pped
 hal
 remidyl
