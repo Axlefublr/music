@@ -2,7 +2,6 @@
 1. Zillakami
 1. Sosmula
 1. Makaveligodd
-1. Lil Darkie
 1. $ubjectz
 1. Cameron Azi
 1. Sybyr
