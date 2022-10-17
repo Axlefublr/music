@@ -22,7 +22,6 @@
 1. Lj Kapone
 1. Madjax
 1. Yung Rare
-1. Wavehi
 1. Xanakin Skywok
 1. 83Hades
 1. Svicide!
