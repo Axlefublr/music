@@ -1,4 +1,3 @@
-hal
 remidyl
 luka
 xatokai
