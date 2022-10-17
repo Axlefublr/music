@@ -1,4 +1,3 @@
-               - lord distortion    = sorcerer
                - skyte              = return by death
                - xatashi            = consious
                - hateoryx           = ain't the same
@@ -51,3 +50,5 @@
 22.10.15 14:44 - Cl!pped            = singles
                - Undead Ronin       = tied up (first album)
 22.10.17 08:10 - XatoKai = What U doin
+               - Lord Distortion    = singles
+22.10.17 08:18 - Cloroxcide = the last project
