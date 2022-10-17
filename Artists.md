@@ -32,7 +32,6 @@
 1. Sinizter
 1. Mugxtsu
 1. Ghostofblu
-1. Vitamjn
 1. Spxxky
 1. Depth strida
 1. Rejectedreyna
@@ -108,7 +107,6 @@
 1. Prxphecy
 1. CHXEU
 1. Nofacenoshame
-1. 884Phxbia
 1. KIDx
 1. Digress
 1. PlayThatBoiZay
