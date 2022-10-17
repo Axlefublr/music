@@ -108,7 +108,6 @@
 1. Prxphecy
 1. CHXEU
 1. Nofacenoshame
-1. Skyte
 1. 884Phxbia
 1. KIDx
 1. Digress
