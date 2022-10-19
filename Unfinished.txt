@@ -1,4 +1,3 @@
-               - Fabvl              = the enemy
                - faceless 1-7       = pop rocks
                - zombiez            = pusherback
                - tamaeya            = ozone
