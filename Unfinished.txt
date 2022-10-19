@@ -1,4 +1,3 @@
-               - chxeu              = chxeu and stranded
                - cherry ills        = ch.ills
                - fabvl              = the enemy
                - faceless 1-7       = pop rocks
@@ -46,3 +45,4 @@
                - DrownMili          = third album
 22.10.19 17:32 - Shookie            = Look Back
 22.10.19 17:36 - SXNR               = singles
+               - CHXEU              = singles
