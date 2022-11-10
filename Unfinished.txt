@@ -1,4 +1,3 @@
-               - Changeline        = first album
                - drear             = first album
                - wido              = goblin?
                - ak3k              = murder rap
@@ -42,3 +41,4 @@
                - Yeat              = singles
 22.11.09 22:53 - Dkoolpharaoh      = prerolls
                - James Gorczyca    = eating food
+22.11.10 22:35 - SNXP = defect
