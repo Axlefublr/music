@@ -1,4 +1,3 @@
-               - lxxiv             = problematic freestyle
                - jacobymccraytm    = hello
                - Bi8dez            = windows down
                - Gullyspit         = lean in
@@ -45,3 +44,5 @@
 22.11.11 23:12 - Yaffe             = neuro
 22.11.11 23:16 - AXELBLOODYAXEL    = bodyrot
                - 8XNE8             = action
+22.11.21 01:01 - Eyez hate U       = run
+               - lxxiv             = zoom
