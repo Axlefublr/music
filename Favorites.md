@@ -12,7 +12,6 @@
 1. FL.VCO
 1. 7xvn
 1. BVDLVD
-1. Christ Dillinger
 1. Johnnascus
 1. Eddison
 1. Xzarkhan
@@ -150,3 +149,4 @@
 1. 23.02.19 - Ewil TheDemonDude!
 1. 23.02.22 - Helli
 1. 23.02.23 - 021GASTLY
+1. 23.02.23 - ZOMB11
