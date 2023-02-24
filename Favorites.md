@@ -76,7 +76,6 @@
 1. Seshspawn
 1. Fenrir
 1. 33mercury
-1. Mxshi aoa
 1. Lord Distortion
 1. Mercenaries
 1. Venting Palace
