@@ -92,7 +92,6 @@
 1. Skorn3896
 1. citrate
 1. Dxvdxnd
-1. FuckPoggi
 1. FuckSleepy
 1. ROT!
 1. Neziah1k
