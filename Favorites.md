@@ -41,7 +41,6 @@
 1. Red line savage
 1. Auxogen
 1. Lich tycoon
-1. Yeahdudejoshishere
 1. Trash punch
 1. Grim salvo
 1. Itsoktocry
