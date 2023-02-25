@@ -35,7 +35,6 @@
 1. Rejectedreyna
 1. Xen0christ
 1. London grey
-1. Hibari555
 1. Gxner.
 1. Kim Dracula
 1. Red line savage
