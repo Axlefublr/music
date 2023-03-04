@@ -101,9 +101,8 @@
 1. CHXEU
 1. Nofacenoshame
 1. KIDx
-1. Digress
 1. PlayThatBoiZay
-1. Delirium
+1. elirium
 1. Eccentric Ren
 1. Fxkuto
 1. Dirtybutt
