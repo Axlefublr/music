@@ -4,7 +4,6 @@
 1. Makaveligodd
 1. $ubjectz
 1. Cameron Azi
-1. Sybyr
 1. Bruhmanegod
 1. AFourteen
 1. Warlord Colossus
