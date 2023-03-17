@@ -13,7 +13,6 @@
 1. BVDLVD
 1. Johnnascus
 1. Eddison
-1. Xzarkhan
 1. Killtak
 1. Eric North
 1. Lj Kapone
