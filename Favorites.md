@@ -99,7 +99,6 @@
 1. Gullyspit
 1. Saush
 1. Witchhouse 40k
-1. Daegho
 1. Changeline
 1. 22.10.05 - Drear
 1. 22.10.05 - Wido
