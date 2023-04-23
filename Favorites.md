@@ -1,4 +1,3 @@
-1. Zillakami
 1. Sosmula
 1. Makaveligodd
 1. $ubjectz
