@@ -36,7 +36,6 @@
 1. Lich tycoon
 1. Trash punch
 1. Grim salvo
-1. Itsoktocry
 1. 717na
 1. Navvvi
 1. $oulbomb
