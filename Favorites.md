@@ -126,7 +126,6 @@
 1. 23.02.13 - txaz
 1. 23.02.14 - BRONKX3
 1. 23.02.19 - Ewil TheDemonDude!
-1. 23.02.22 - Helli
 1. 23.02.23 - 021GASTLY
 1. 23.02.23 - ZOMB11
 1. 23.03.07 - ALLIRT
