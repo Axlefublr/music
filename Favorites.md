@@ -8,7 +8,6 @@
 1. Guap Sensei
 1. FL.VCO
 1. 7xvn
-1. BVDLVD
 1. Johnnascus
 1. Eddison
 1. Killtak
