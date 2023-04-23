@@ -18,7 +18,6 @@
 1. Xanakin Skywok
 1. 83Hades
 1. Svicide!
-1. Jeleel!
 1. Undead papi
 1. Semtexxx
 1. Oni inc
