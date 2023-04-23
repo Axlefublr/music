@@ -91,11 +91,10 @@
 1. Nofacenoshame
 1. KIDx
 1. PlayThatBoiZay
-1. elirium
+1. Delirium
 1. Eccentric Ren
 1. Fxkuto
 1. Dirtybutt
-1. HXNJV
 1. James Gorczyca
 1. Gullyspit
 1. Saush
