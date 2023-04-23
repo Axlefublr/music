@@ -44,7 +44,6 @@
 1. Sugs
 1. Gorejit
 1. Hazze
-1. Blckbrd
 1. Deaceased
 1. Nolivesmatter
 1. Fello-de-se
