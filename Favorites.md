@@ -38,7 +38,6 @@
 1. Grim salvo
 1. 717na
 1. Navvvi
-1. $oulbomb
 1. Pyrxciter
 1. Brokie
 1. My$ter
