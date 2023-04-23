@@ -56,7 +56,6 @@
 1. Kxma
 1. Scissorhand
 1. Muppy
-1. Mimi barks
 1. Banshee
 1. Amorphou6
 1. Healtrip
