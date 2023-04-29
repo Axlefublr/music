@@ -60,7 +60,6 @@
 1. Amorphou6
 1. Healtrip
 1. Xelishurt
-1. Tumaggz
 1. Seshspawn
 1. Fenrir
 1. 33mercury
